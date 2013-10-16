@@ -1,0 +1,28 @@
+Richard Lum
+st no. 41671785
+cs314 assn1
+================================================
+
+Tested complete
+- r resets game
+- b a  goes to basic or advanced mode
+- < > increases/decreases speed of river . 
+	default start speed 0
+	default reset speed -5
+- up down left right arrow keys move salmon
+- holding down a key accelerates until key up
+- rotation cw on mouse right, ccw on mouse left
+	window exit resets tracking base position
+- collision triigers random color change, turtle lights up
+	uses spotlight and emmissive surface
+
+Extras
+- bounding box stops salmon from going outside of window in basic
+- in advanced, bounces of edge
+- advanced motion in line with salmon rotation (or perpendicular to salmon)
+- advanced mode salmon has momentum
+- advanced mode salmon has jaw motion
+- advanced mode collision pop eyes
+- advanced mode collision impact response by shifting salmon position
+- advanced mode collision emits random bubbles with random motion that
+	grow as they ascend and blend more into background.	
